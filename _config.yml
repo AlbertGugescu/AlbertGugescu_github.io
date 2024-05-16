@@ -5,14 +5,15 @@ description: > # your text below (remove <br> elements if you don't need line br
   Highly motivated data scientist with a passion for extracting meaningful insights from complex datasets. Seeking an entry-level position to apply my abilities in a professional environment.
   <br> 
   <br>
-  Skills: 
-  - Pandas
-  - Numpy
-  - Matplotlib and Seaborn
-  - Scikit-learn
-  - Tensorflow
-  - Tableau
-  - SQL and PL/SQL
+  Skills:
+  <li>Pandas and Numpy</li>
+  <li>Matplotlib and Seaborn</li>
+  <li>Scipy</li>
+  <li>Scikit-learn</li>
+  <li>Tensorflow</li>
+  <li>Tableau</li>
+  <li>SQL and PL/SQL</li>
+  <li>Excel</li>
   - Excel
   <br>
 remote_theme: pages-themes/minimal@v0.2.0
