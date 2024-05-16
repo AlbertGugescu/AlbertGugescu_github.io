@@ -6,7 +6,7 @@
 
 In this project, I’ve acquired data from the MIUR (Italy’s Ministry of Education, University and Research) to delve into the differences in university enrollments in Italy from 2000 to 2020.
 
-<img src="/images/Italy%20un.png?raw=true" />
+<img src="/images/Italy un.png" />
 
 View code on Colab
 
