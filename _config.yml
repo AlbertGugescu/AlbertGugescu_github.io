@@ -6,14 +6,14 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br> 
   <dl>
     <dt>Skills:</dt>
-      <dd>Pandas and Numpy</dd>
-      <dd>Matplotlib and Seaborn</dd>
-      <dd>Scipy</dd>
-      <dd>Scikit-learn</dd>
-      <dd>Tensorflow</dd>
-      <dd>Tableau</dd>
-      <dd>SQL and PL/SQL</dd>
-      <dd>Excel</dd>  
+      <li>Pandas and Numpy</li>
+      <li>Matplotlib and Seaborn</li>
+      <li>Scipy</li>
+      <li>Scikit-learn</li>
+      <li>Tensorflow</li>
+      <li>Tableau</li>
+      <li>SQL and PL/SQL</li>
+      <li>Excel</li>  
     </dl>
   <br>
 remote_theme: pages-themes/minimal@v0.2.0
