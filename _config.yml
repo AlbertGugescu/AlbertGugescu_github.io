@@ -10,8 +10,8 @@ description: > # your text below (remove <br> elements if you don't need line br
       <li>Pandas, Numpy, SQL and PL/SQL</li>
       <li>Matplotlib, Seaborn and Tableau</li>
       <li>Scipy and Pingouin</li>
-      <li>Tensorflow, Scikit-learn, XGbbost, LGBM, CatBoost and Surprise</li>
-      <li>Beautiful Soup</li>  
+      <li>Scikit-learn, Tensorflow, XGBoost, LightGBM, CatBoost and Surprise</li>
+      <li>Beautiful Soup</li>
     </ul>
     </dl>
   <br>
