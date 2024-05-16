@@ -8,13 +8,11 @@ description: > # your text below (remove <br> elements if you don't need line br
     <dt>Skills:</dt>
     <ul>
       <li>Pandas and Numpy</li>
-      <li>Matplotlib and Seaborn</li>
+      <li>Matplotlib, Seaborn and Tableau</li>
       <li>Scipy</li>
-      <li>Scikit-learn</li>
-      <li>Tensorflow</li>
-      <li>Tableau</li>
+      <li>Tensorflow, Scikit-learn, XGbbost, LGBM, CatBoost</li>
       <li>SQL and PL/SQL</li>
-      <li>Excel</li>
+      <li></li>  
     </ul>
     </dl>
   <br>
