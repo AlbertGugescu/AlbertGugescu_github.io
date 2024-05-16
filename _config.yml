@@ -6,6 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br> 
   <dl>
     <dt>Skills:</dt>
+    <ul>
       <li>Pandas and Numpy</li>
       <li>Matplotlib and Seaborn</li>
       <li>Scipy</li>
@@ -13,7 +14,8 @@ description: > # your text below (remove <br> elements if you don't need line br
       <li>Tensorflow</li>
       <li>Tableau</li>
       <li>SQL and PL/SQL</li>
-      <li>Excel</li>  
+      <li>Excel</li>
+    </ul>
     </dl>
   <br>
 remote_theme: pages-themes/minimal@v0.2.0
