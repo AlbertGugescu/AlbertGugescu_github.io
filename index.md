@@ -6,7 +6,7 @@
 
 In this project, I’ve acquired data from the MIUR (Italy’s Ministry of Education, University and Research) to delve into the differences in university enrollments in Italy from 2000 to 2020.
 
-<img src="/images/Italy un.png" />
+<img src="images/Italy un.png" />
 
 View code on Colab
 
@@ -15,7 +15,7 @@ View code on Colab
 ### Sales Analysis and Customer Segmentation
 In order to get as much information as possible about a sales dataset, analysis techniques such as EDA, inferential analysis, and ML were used. Customer segmentation practices are also employed to group similar users, providing the possibility of targeting customers in the best way possible.
 
-<img src="/images/Sales_Analysis.png" />
+<img src="images/Sales_Analysis.png" />
 
 [View code on Colab](https://colab.research.google.com/drive/16D2wZIYugOM2u7OUHegozT25UXVQB6gV?usp=sharing)
 
@@ -33,7 +33,7 @@ This notebook delves into recommendation systems capable of making movie recomme
 
 To gain insights into the temperature change across the world, I cleaned and analyzed a table containing the average temperatures of major cities worldwide. The cleaned table is then used to find out if there is any association between the temperatures set and the CO2 emissions using a second table. After the analysis of the association, the dataset is finally used to develop a model that can predict the temperature on a given day and location.
 
-<img src="/images/World_Temperature.png" />
+<img src="images/World_Temperature.png" />
 
 [View code on Colab](https://colab.research.google.com/drive/1H3_I_27C7ZFKb_ZGP_X_CAr97t-C9qtk?usp=sharing)
 
