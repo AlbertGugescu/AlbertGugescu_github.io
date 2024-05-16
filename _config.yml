@@ -6,6 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br> 
   <br>
   Skills:
+  <ol>
   <li>Pandas and Numpy</li>
   <li>Matplotlib and Seaborn</li>
   <li>Scipy</li>
@@ -14,6 +15,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <li>Tableau</li>
   <li>SQL and PL/SQL</li>
   <li>Excel</li>
+  </ol>
   - Excel
   <br>
 remote_theme: pages-themes/minimal@v0.2.0
