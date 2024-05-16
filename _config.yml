@@ -7,12 +7,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <dl>
     <dt>Skills:</dt>
     <ul>
-      <li>Pandas and Numpy</li>
+      <li>Pandas, Numpy, SQL and PL/SQL</li>
       <li>Matplotlib, Seaborn and Tableau</li>
-      <li>Scipy</li>
-      <li>Tensorflow, Scikit-learn, XGbbost, LGBM, CatBoost</li>
-      <li>SQL and PL/SQL</li>
-      <li></li>  
+      <li>Scipy and Pingouin</li>
+      <li>Tensorflow, Scikit-learn, XGbbost, LGBM, CatBoost and Surprise</li>
+      <li>Beautiful Soup</li>  
     </ul>
     </dl>
   <br>
