@@ -72,6 +72,7 @@ Annual competition held on Kaggle aimed at the diagnosis of skin cancer through 
 View code on Colab
 
 ---
+---
 
 ### Kaggle Playground Series:
 
