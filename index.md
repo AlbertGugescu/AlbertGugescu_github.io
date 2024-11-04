@@ -62,3 +62,29 @@ Fake news detection is the task of ascertaining the authenticity of news article
 In this notebook, I will go through the steps of building an attention-based sequence-to-sequence model using the encoder-decoder architecture with TensorFlow. The model will take a text sequence as input and output the corresponding summary and an auxiliary sentiment analysis output.
 
 [View code on Colab](https://colab.research.google.com/drive/1KUvyLiefE3sZiqr9-t3erUCcJLcbwafC?usp=sharing)
+
+---
+
+### ISIC 2024 - Skin Cancer Detection with 3D-TBP
+
+Annual competition held on Kaggle aimed at the diagnosis of skin cancer through the use of images and tabular data. I participated by developing computer vision models for image analysis, subsequently integrating their outputs with tabular data to enhance the performance of the final predictive models obtaining a partial area under the ROC curve (pAUC) above 80% true positive rate of 0.15683.
+
+View code on Colab
+
+---
+
+### Kaggle Playground Series:
+
+
+- S3E15: Feature Imputation with a Heat Flux (RMSE score: 0.081516)
+
+- S3E22: Predict Health Outcomes of Horses (micro-averaged F1-Score: 0.76829)
+
+- S4E2: Multi-Class Prediction of Obesity Risk (accuracy score: 0.90769)
+
+- S4E5: Regression with a Flood Prediction  (r2 score: 0.86620)
+
+- S4E6: Classification with an Academic Success(accuracy score: 0.83787)
+
+- S4E9: Regression of Used Car Prices (RMSE score: 63637)
+
