@@ -77,15 +77,15 @@ View code on Colab
 ### Kaggle Playground Series:
 
 
-- S3E15: Feature Imputation with a Heat Flux (RMSE score: 0.081516)
+- <b>S3E15</b>: Feature Imputation with a Heat Flux (RMSE score: 0.081516)
 
-- S3E22: Predict Health Outcomes of Horses (micro-averaged F1-Score: 0.76829)
+- <b>S3E22</b>: Predict Health Outcomes of Horses (micro-averaged F1-Score: 0.76829)
 
-- S4E2: Multi-Class Prediction of Obesity Risk (accuracy score: 0.90769)
+- <b>S4E2</b>: Multi-Class Prediction of Obesity Risk (accuracy score: 0.90769)
 
-- S4E5: Regression with a Flood Prediction  (r2 score: 0.86620)
+- <b>S4E5</b>: Regression with a Flood Prediction  (r2 score: 0.86620)
 
-- S4E6: Classification with an Academic Success(accuracy score: 0.83787)
+- <b>S4E6</b>: Classification with an Academic Success(accuracy score: 0.83787)
 
-- S4E9: Regression of Used Car Prices (RMSE score: 63637)
+- <b>S4E9</b>: Regression of Used Car Prices (RMSE score: 63637)
 
