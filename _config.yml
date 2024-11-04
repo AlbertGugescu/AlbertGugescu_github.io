@@ -9,9 +9,11 @@ description: > # your text below (remove <br> elements if you don't need line br
     <ul>
       <li>Pandas, Numpy, SQL and PL/SQL</li>
       <li>Matplotlib, Seaborn and Tableau</li>
-      <li>Scipy and Pingouin</li>
       <li>Scikit-learn, Tensorflow, XGBoost, LightGBM, CatBoost and Surprise</li>
+      <li>KerasTuner and Optuna</li>
+      <li>Scipy and Pingouin</li>
       <li>Beautiful Soup</li>
+      <li>Oracle SQL, PL/SQL & Datastage</li>
     </ul>
     </dl>
   <br>
