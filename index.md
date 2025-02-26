@@ -8,8 +8,6 @@ In this project, I’ve acquired data from the MIUR (Italy’s Ministry of Educa
 
 <img src="images/Italy un.png" />
 
-View code on Colab
-
 ---
 
 ### Sales Analysis and Customer Segmentation
@@ -65,11 +63,23 @@ In this notebook, I will go through the steps of building an attention-based seq
 
 ---
 
-### ISIC 2024 - Skin Cancer Detection with 3D-TBP
+### ISIC 2024 - Skin Cancer Detection with 3D-TBP Competition
 
 Annual competition held on Kaggle aimed at the diagnosis of skin cancer through the use of images and tabular data. I participated by developing computer vision models for image analysis, subsequently integrating their outputs with tabular data to enhance the performance of the final predictive models obtaining a partial area under the ROC curve (pAUC) above 80% true positive rate of 0.15683.
 
-View code on Colab
+<img src="images/isic_2024.png" />
+
+[View Kaggle competition](https://www.kaggle.com/competitions/isic-2024-challenge)
+
+---
+
+### BrisT1D Blood Glucose Competition
+
+Time series competition held on Kaggle that had the goal of predicting blood glucose fluctuations in individuals with type 1 diabetes. To tackle the problem presented I experimented with both boosting algorithms and neural networks but continued only with Convolutional Neural Networks (CNNs) as they significantly outperformed the other models, managing to obtain an RMSE score of 2.4635.
+
+<img src="images/brist1d.png" />
+
+[View Kaggle competition](https://www.kaggle.com/competitions/brist1d)
 
 ---
 ---
