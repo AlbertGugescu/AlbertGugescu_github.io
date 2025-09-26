@@ -85,6 +85,7 @@
 ---
 
 ### Kaggle Playground Series
+
 | Episode | Task | Score |
 |---------|------|-------|
 | S3E15 | Feature Imputation with a Heat Flux | RMSE: 0.081516 |
