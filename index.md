@@ -1,101 +1,112 @@
-## Selected Portfolio Projects
+# Selected Portfolio Projects
 
 ---
 
+## Python Projects
+
 ### Italy University Enrollments
+**Description:** In this project, I’ve acquired data from the MIUR (Italy’s Ministry of Education, University and Research) to delve into the differences in university enrollments in Italy from 2000 to 2020.
 
-In this project, I’ve acquired data from the MIUR (Italy’s Ministry of Education, University and Research) to delve into the differences in university enrollments in Italy from 2000 to 2020.
-
-<img src="images/Italy un.png" />
+<img src="images/Italy un.png" alt="Italy University Enrollments" />
 
 ---
 
 ### Sales Analysis and Customer Segmentation
-In order to get as much information as possible about a sales dataset, analysis techniques such as EDA, inferential analysis, and ML were used. Customer segmentation practices are also employed to group similar users, providing the possibility of targeting customers in the best way possible.
+**Description:** In order to get as much information as possible about a sales dataset, analysis techniques such as EDA, inferential analysis, and ML were used. Customer segmentation practices are also employed to group similar users, providing the possibility of targeting customers in the best way possible.
 
-<img src="images/Sales_Analysis.png" />
+<img src="images/Sales_Analysis.png" alt="Sales Analysis" />
 
-[View code on Colab](https://colab.research.google.com/drive/16D2wZIYugOM2u7OUHegozT25UXVQB6gV?usp=sharing)
+**Link:**  
+- [View code on Colab](https://colab.research.google.com/drive/16D2wZIYugOM2u7OUHegozT25UXVQB6gV?usp=sharing)
 
 ---
 
 ### Movie Recommendation System
+**Description:** This notebook delves into recommendation systems capable of making movie recommendations using collaborative filtering. The models tested are a Tensorflow deep model with embedded layers and the well-known SVD algorithm.
 
-This notebook delves into recommendation systems capable of making movie recommendations using collaborative filtering. The models tested are a Tensorflow deep model with embedded layers and the well-known SVD algorithm.
-
-[View code on Colab](https://colab.research.google.com/drive/1NrYWsHU4AvId_r-SOSqpcFeX7kO8I70O?usp=sharing)
-
----
-
-### Temperatures Analysis and Forecasting with Tensorflow
-
-To gain insights into the temperature change across the world, I cleaned and analyzed a table containing the average temperatures of major cities worldwide. The cleaned table is then used to find out if there is any association between the temperatures set and the CO2 emissions using a second table. After the analysis of the association, the dataset is finally used to develop a model that can predict the temperature on a given day and location.
-
-<img src="images/World_Temperature.png" />
-
-[View code on Colab](https://colab.research.google.com/drive/1H3_I_27C7ZFKb_ZGP_X_CAr97t-C9qtk?usp=sharing)
+**Link:**  
+- [View code on Colab](https://colab.research.google.com/drive/1NrYWsHU4AvId_r-SOSqpcFeX7kO8I70O?usp=sharing)
 
 ---
 
-### Animal Image Classifier with TensorFlow
+### Temperatures Analysis and Forecasting
+**Description:** To gain insights into the temperature change across the world, I cleaned and analyzed a table containing the average temperatures of major cities worldwide. The cleaned table is then used to find out if there is any association between the temperatures set and the CO2 emissions using a second table. After the analysis of the association, the dataset is finally used to develop a model that can predict the temperature on a given day and location.
 
-In this notebook, I utilized Tensorflow to build a model capable of predicting the name of an animal present in an image. To accomplish this, I decided to use the fast and high-performing InceptionV3 architecture.
+<img src="images/World_Temperature.png" alt="World Temperatures" />
 
-[View code on Colab](https://colab.research.google.com/drive/13ZDnaX4-0tyE3VQM_HZ-7czKSJ5jiET8?usp=sharing)
+**Link:**  
+- [View code on Colab](https://colab.research.google.com/drive/1H3_I_27C7ZFKb_ZGP_X_CAr97t-C9qtk?usp=sharing)
 
 ---
 
+### Animal Image Classifier
+**Description:** In this notebook, I utilized Tensorflow to build a model capable of predicting the name of an animal present in an image. To accomplish this, I decided to use the fast and high-performing InceptionV3 architecture. 
 
-### NLP for Fake News Detection with TensorFlow
+**Link:**  
+- [View code on Colab](https://colab.research.google.com/drive/13ZDnaX4-0tyE3VQM_HZ-7czKSJ5jiET8?usp=sharing)
 
-Fake news detection is the task of ascertaining the authenticity of news articles and determining whether they are genuine or fake. In this project, I utilized Tensorflow to develop a model capable of predicting the probability of news articles being fake. The model is then used to create a web app classifier using Streamlit.
+---
 
-[View code on Colab](https://colab.research.google.com/drive/12jPrkVDvf1OSUcSKqdgly9Sr5Yyz9nx-?usp=sharing) &nbsp;&nbsp;&nbsp; [View web app on Streamlit](https://newsclassifier-ffhsmr5htxfjrj3jqyaayd.streamlit.app/)
+### NLP for Fake News Detection
+**Description:** Fake news detection is the task of ascertaining the authenticity of news articles and determining whether they are genuine or fake. In this project, I utilized Tensorflow to develop a model capable of predicting the probability of news articles being fake. The model is then used to create a web app classifier using Streamlit.
 
+**Links:**  
+- [View code on Colab](https://colab.research.google.com/drive/12jPrkVDvf1OSUcSKqdgly9Sr5Yyz9nx-?usp=sharing)  
+- [View web app on Streamlit](https://newsclassifier-ffhsmr5htxfjrj3jqyaayd.streamlit.app/)
 
 ---
 
 ### NLP for Text Summarization and Sentiment Analysis
+**Description:** In this notebook, I will go through the steps of building an attention-based sequence-to-sequence model using the encoder-decoder architecture with TensorFlow. The model will take a text sequence as input and output the corresponding summary and an auxiliary sentiment analysis output.  
 
-In this notebook, I will go through the steps of building an attention-based sequence-to-sequence model using the encoder-decoder architecture with TensorFlow. The model will take a text sequence as input and output the corresponding summary and an auxiliary sentiment analysis output.
-
-[View code on Colab](https://colab.research.google.com/drive/1KUvyLiefE3sZiqr9-t3erUCcJLcbwafC?usp=sharing)
-
----
-
-### ISIC 2024 - Skin Cancer Detection with 3D-TBP Competition
-
-Annual competition held on Kaggle aimed at the diagnosis of skin cancer through the use of images and tabular data. I participated by developing computer vision models for image analysis, subsequently integrating their outputs with tabular data to enhance the performance of the final predictive models obtaining a partial area under the ROC curve (pAUC) above 80% true positive rate of 0.15683.
-
-<img src="images/isic_2024.png" />
-
-[View Kaggle competition](https://www.kaggle.com/competitions/isic-2024-challenge)
+**Link:**  
+- [View code on Colab](https://colab.research.google.com/drive/1KUvyLiefE3sZiqr9-t3erUCcJLcbwafC?usp=sharing)
 
 ---
 
-### BrisT1D Blood Glucose Competition
+### ISIC 2024 - Skin Cancer Detection
+**Description:** Annual competition held on Kaggle aimed at the diagnosis of skin cancer through the use of images and tabular data. I participated by developing computer vision models for image analysis, subsequently integrating their outputs with tabular data to enhance the performance of the final predictive models obtaining a partial area under the ROC curve (pAUC) above 80% true positive rate of 0.15683.  
 
-Time series competition held on Kaggle that had the goal of predicting blood glucose fluctuations in individuals with type 1 diabetes. To tackle the problem presented I experimented with both boosting algorithms and neural networks but continued only with Convolutional Neural Networks (CNNs) as they significantly outperformed the other models, managing to obtain an RMSE score of 2.4635.
+<img src="images/isic_2024.png" alt="ISIC 2024 Skin Cancer Detection" />
 
-<img src="images/brist1d.png" />
-
-[View Kaggle competition](https://www.kaggle.com/competitions/brist1d)
+**Link:**  
+- [View Kaggle competition](https://www.kaggle.com/competitions/isic-2024-challenge)
 
 ---
+
+### BrisT1D Blood Glucose Prediction
+**Description:** Time series competition held on Kaggle that had the goal of predicting blood glucose fluctuations in individuals with type 1 diabetes. To tackle the problem presented I experimented with both boosting algorithms and neural networks but continued only with Convolutional Neural Networks (CNNs) as they significantly outperformed the other models, managing to obtain an RMSE score of 2.4635.  
+
+<img src="images/brist1d.png" alt="BrisT1D Blood Glucose Prediction" />
+
+**Link:**  
+- [View Kaggle competition](https://www.kaggle.com/competitions/brist1d)
+
 ---
 
-### Kaggle Playground Series:
+### Kaggle Playground Series
+| Episode | Task | Score |
+|---------|------|-------|
+| S3E15 | Feature Imputation with a Heat Flux | RMSE: 0.081516 |
+| S3E22 | Predict Health Outcomes of Horses | Micro F1: 0.76829 |
+| S4E2  | Multi-Class Prediction of Obesity Risk | Accuracy: 0.90769 |
+| S4E5  | Regression with Flood Prediction | R²: 0.86620 |
+| S4E6  | Classification with Academic Success | Accuracy: 0.83787 |
+| S4E9  | Regression of Used Car Prices | RMSE: 63,637 |
 
+---
 
-- <b>S3E15</b>: Feature Imputation with a Heat Flux (RMSE score: 0.081516)
+## Power BI Reports
 
-- <b>S3E22</b>: Predict Health Outcomes of Horses (micro-averaged F1-Score: 0.76829)
+### Flight Analisys
 
-- <b>S4E2</b>: Multi-Class Prediction of Obesity Risk (accuracy score: 0.90769)
+**Description:** This project investigates the relationship between coach prices and various flight characteristics.
 
-- <b>S4E5</b>: Regression with a Flood Prediction  (r2 score: 0.86620)
+<img src="images/powerbi/flight analisys.png" alt="flight analisys" />
 
-- <b>S4E6</b>: Classification with an Academic Success(accuracy score: 0.83787)
+### Income Analisys
 
-- <b>S4E9</b>: Regression of Used Car Prices (RMSE score: 63637)
+**Description:** This project investigates the relationship between Income and various characteristics.
 
+<img src="images/powerbi/income analysis_Pagina_1.png" alt="income analisys 01" />
+<img src="images/powerbi/income analysis_Pagina_2.png" alt="income analisys 02" />
