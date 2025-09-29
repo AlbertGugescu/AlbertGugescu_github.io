@@ -4,6 +4,7 @@
   flex-wrap: nowrap;          /* keep on one line */
   gap: 20px;                  /* space between columns */
   max-width: 1200px;          /* keep centered */
+  width: 80% !important;
   margin: 0 auto;             /* center horizontally */
 }
 
