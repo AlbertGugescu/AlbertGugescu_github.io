@@ -5,7 +5,7 @@
   gap: 20px;                  /* space between columns */
   max-width: 1200px;          /* keep centered */
   margin: 0 auto;             /* center horizontally */
-  width: 80%;
+  width: 80% !important;
 }
 
 /* Sidebar column */
