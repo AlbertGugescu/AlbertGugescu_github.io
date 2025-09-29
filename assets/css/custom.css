@@ -4,15 +4,16 @@
   flex-wrap: nowrap;          /* keep on one line */
   gap: 20px;                  /* space between columns */
   max-width: 1200px;          /* keep centered */
- /* margin: 0 auto;              center horizontally */
+  margin: 0 auto;             /* center horizontally */
 }
 
 /* Sidebar column */
 .wrapper > header {
   flex: 0 0 30%;              /* 30% fixed width */
   float: none !important;     /* cancel old float */
+  position: block !important;
 }
-
+ 
 /* Main content column */
 .wrapper > section {
   flex: 1 1 70%;              /* remaining 70% */
