@@ -5,11 +5,12 @@
   gap: 20px;                  /* space between columns */
   max-width: 1200px;          /* keep centered */
   margin: 0 auto;             /* center horizontally */
+  width: 80%;
 }
 
 /* Sidebar column */
 .wrapper > header {
-  flex: 0 0 30%;              /* 30% fixed width */
+  flex: 0 0 20%;              /* 30% fixed width */
   float: none !important;     /* cancel old float */
   position: static !important;
 }
