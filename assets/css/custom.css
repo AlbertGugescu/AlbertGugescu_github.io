@@ -1,10 +1,13 @@
+/* Example: 30% sidebar, 70% content */
 .wrapper {
-  max-width: 1200px;  /* default is ~800px */
-  width: 90%;         /* keeps a margin on large screens */
+  display: flex;       /* ensure flexbox */
+  gap: 20px;           /* space between columns */
 }
 
-/* Optional: increase content font size slightly for readability */
-body {
-  font-size: 18px;
-  line-height: 1.6;
+.wrapper > header {
+  flex: 0 0 30%;       /* fixed 30% width */
+}
+
+.wrapper > section {
+  flex: 1 1 70%;       /* take remaining space */
 }
