@@ -20,3 +20,7 @@
   flex: 1 1 70%;              /* remaining 70% */
   float: none !important;     /* cancel old float */
 }
+
+header {
+  position: block;
+}
