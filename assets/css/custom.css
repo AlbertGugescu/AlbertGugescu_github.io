@@ -1,13 +1,20 @@
-/* Example: 30% sidebar, 70% content */
+/* Force wrapper to be a flexbox layout */
 .wrapper {
-  display: flex;       /* ensure flexbox */
-  gap: 20px;           /* space between columns */
+  display: flex !important;   /* override theme */
+  flex-wrap: nowrap;          /* keep on one line */
+  gap: 20px;                  /* space between columns */
+  max-width: 1200px;          /* keep centered */
+  margin: 0 auto;             /* center horizontally */
 }
 
+/* Sidebar column */
 .wrapper > header {
-  flex: 0 0 30%;       /* fixed 30% width */
+  flex: 0 0 30%;              /* 30% fixed width */
+  float: none !important;     /* cancel old float */
 }
 
+/* Main content column */
 .wrapper > section {
-  flex: 1 1 70%;       /* take remaining space */
+  flex: 1 1 70%;              /* remaining 70% */
+  float: none !important;     /* cancel old float */
 }
