@@ -1,0 +1,5 @@
+/* Override Minimal theme width */
+.wrapper {
+  max-width: 1200px; /* Increase from ~800px */
+  width: 90%;        /* Let it scale with screen */
+}
