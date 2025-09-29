@@ -1,5 +1,10 @@
-/* Override Minimal theme width */
 .wrapper {
-  max-width: 1200px; /* Increase from ~800px */
-  width: 90%;        /* Let it scale with screen */
+  max-width: 1200px;  /* default is ~800px */
+  width: 90%;         /* keeps a margin on large screens */
+}
+
+/* Optional: increase content font size slightly for readability */
+body {
+  font-size: 18px;
+  line-height: 1.6;
 }
