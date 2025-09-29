@@ -2,7 +2,7 @@
 .wrapper {
   display: flex !important;   /* override theme */
   flex-wrap: nowrap;          /* keep on one line */
-  gap: 20px;                  /* space between columns */
+  gap: 50px;                  /* space between columns */
   max-width: 1200px;          /* keep centered */
   margin: 0 auto;             /* center horizontally */
 }
