@@ -14,7 +14,7 @@ xgboost_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/XGB
 lgbm_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/LightGBM_logo_black_text.svg" alt="LightGBM Logo" width="70" height="20">'
 catboost_logo: '<img src="https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/When-to-Choose-CatBoost-Over-XGBoost-or-LightGBM-Practical-Guide_8.png?ssl=1" alt="CatBoost Logo" width="70" height="20">'
 surprise_logo: '<img src="images/logo.png" alt="Surprise Logo" width="70" height="20">'
-surprise_logo: '<img src="https://www.freelogovectors.net/wp-content/uploads/2018/07/tensorflow-logo.png" alt="Tensorflow Logo" width="70" height="20">'
+tensorflow_logo: '<img src="https://www.freelogovectors.net/wp-content/uploads/2018/07/tensorflow-logo.png" alt="Tensorflow Logo" width="70" height="20">'
 beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhwk0702.github.io%2Fimg%2Fbs.png&f=1&nofb=1&ipt=e6bebc477a0128c41176abc2df088f6e79d18654df9d16288258e25a8e20dc36\" alt=\"Beautifulsoup Logo\" style=\"width: 70px; height: 20px; object-fit: cover; object-position: center;\">"
 ---
 
@@ -68,7 +68,15 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 
 <img src="images/World_Temperature.png" alt="World Temperatures" />
 
-{{page.beautifulsoup_logo}}
+{{ page.numpy_logo }}
+{{ page.pandas_logo }}
+{{ page.matplot_logo }}
+{{ page.seaborn_logo }}
+{{ page.beautifulsoup_logo }}
+{{ page.matplot_logo }}
+{{ page.sklearn_logo }}
+{{ page.xgboost_logo }}
+{{ page.tensorflow_logo }}
 
 [View code on Colab](https://colab.research.google.com/drive/1H3_I_27C7ZFKb_ZGP_X_CAr97t-C9qtk?usp=sharing)
 
