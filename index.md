@@ -16,10 +16,10 @@ seaborn_logo_url: https://seaborn.pydata.org/_images/logo-wide-lightbg.svg
 
 <img src="images/Italy un.png" alt="Italy University Enrollments" />
 
-<img src={{ page.pandas_logo_url }}
+<img src="{{ page.pandas_logo_url }}"
      alt="Pandas Logo" 
-     width={{ page.logo_size }}>
-<img src={{ page.seaborn_logo_url }} 
+     width="{{ page.logo_size }}">
+<img src="{{ page.seaborn_logo_url }}" 
      alt="Seaborn Logo" 
      width="{{ page.logo_size }}">
 
