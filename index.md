@@ -7,12 +7,12 @@ pandas_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pand
 seaborn_logo: '<img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn Logo" width="70" height="20">'
 matplot_logo: '<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib Logo" width="70" height="20">'
 plotly_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="Plotly Logo" width="70" height="20">'
-sklearn_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn Logo" width="70" height="20">'
+sklearn_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn Logo" width="90" height="20">'
 xgboost_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/XGBoost_logo.svg" alt="XGBoost Logo" width="70" height="20">'
 lgbm_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/LightGBM_logo_black_text.svg" alt="LightGBM Logo" width="70" height="20">'
 catboost_logo: '<img src="https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/When-to-Choose-CatBoost-Over-XGBoost-or-LightGBM-Practical-Guide_8.png?ssl=1" alt="CatBoost Logo" width="70" height="20">'
 pingouin_logo: '<img src="https://pingouin-stats.org/build/html/_images/logo_pingouin.png" alt="Pingouin Logo" width="70" height="20">'
-scipy_logo: '<img src="https://lense.institutoptique.fr/ressources/MINE/Tutoriels/Python/MINE_Python_Scipy_Logo.png" alt="SciPy Logo" width="90" height="20">'
+scipy_logo: '<img src="https://lense.institutoptique.fr/ressources/MINE/Tutoriels/Python/MINE_Python_Scipy_Logo.png" alt="SciPy Logo" width="70" height="20">'
 ---
 
 # Selected Portfolio Projects
