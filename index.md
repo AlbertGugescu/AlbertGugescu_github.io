@@ -1,5 +1,6 @@
 ---
-logo_size: 70
+logo_width: 70
+logo_height: 20
 pandas_logo_url: https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg
 seaborn_logo_url: https://seaborn.pydata.org/_images/logo-wide-lightbg.svg
 ---
@@ -18,7 +19,8 @@ seaborn_logo_url: https://seaborn.pydata.org/_images/logo-wide-lightbg.svg
 
 <img src="{{ page.pandas_logo_url }}"
      alt="Pandas Logo" 
-     width="{{ page.logo_size }}">
+     width="{{ page.logo_width }}"
+     height="{{ page.logo_height }}">
 <img src="{{ page.seaborn_logo_url }}" 
      alt="Seaborn Logo" 
      width="{{ page.logo_size }}">
