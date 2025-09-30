@@ -1,5 +1,7 @@
 ---
 logo_size: 70
+pandas_logo_url: https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg
+seaborn_logo_url: https://seaborn.pydata.org/_images/logo-wide-lightbg.svg
 ---
 
 
@@ -14,10 +16,10 @@ logo_size: 70
 
 <img src="images/Italy un.png" alt="Italy University Enrollments" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" 
+<img src={{ page.pandas_logo_url }}
      alt="Pandas Logo" 
-     width="{{ page.logo_size }}">
-<img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" 
+     width={{ page.logo_size }}>
+<img src={{ page.seaborn_logo_url }} 
      alt="Seaborn Logo" 
      width="{{ page.logo_size }}">
 
