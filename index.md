@@ -2,8 +2,8 @@
 logo_width: 70
 logo_height: 20
 
-python_logo: "<img src=\"https://logos-marcas.com/wp-content/uploads/2021/10/Python-Logo.png\" alt=\"Python Logo\" style=\"width: 70px; height: 20px; object-fit: cover; object-position: center;\">"
-powerbi_logo: "<img src=\"https://www.jeveuxetredatascientist.fr/wp-content/uploads/2023/09/power-bi-vector-logo-2022.jpg\" alt=\"PowerBI Logo\" style=\"width: 70px; height: 20px; object-fit: cover; object-position: center;\">"
+python_logo: "<img src=\"https://logos-marcas.com/wp-content/uploads/2021/10/Python-Logo.png\" alt=\"Python Logo\" style=\"width: 80px; height: 15px; object-fit: cover; object-position: center;\">"
+powerbi_logo: "<img src=\"https://www.jeveuxetredatascientist.fr/wp-content/uploads/2023/09/power-bi-vector-logo-2022.jpg\" alt=\"PowerBI Logo\" style=\"width: 80px; height: 15px; object-fit: cover; object-position: center;\">"
 numpy_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" width="70" height="20">'
 pandas_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas Logo" width="70" height="20">'
 pingouin_logo: '<img src="https://pingouin-stats.org/build/html/_images/logo_pingouin.png" alt="Pingouin Logo" width="70" height="20">'
