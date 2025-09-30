@@ -2,6 +2,8 @@
 logo_width: 70
 logo_height: 20
 
+python_logo: '<img src="https://logos-marcas.com/wp-content/uploads/2021/10/Python-Logo.png" alt="Python Logo" width="70" height="20">'
+powerbi_logo: '<img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" alt="PowerBI Logo" width="70" height="20">'
 numpy_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" width="70" height="20">'
 pandas_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas Logo" width="70" height="20">'
 pingouin_logo: '<img src="https://pingouin-stats.org/build/html/_images/logo_pingouin.png" alt="Pingouin Logo" width="70" height="20">'
@@ -22,7 +24,7 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 
 ---
 
-## Python Projects
+## Python Projects {{ page.python_logo}}
 
 ### Italy University Enrollments
 **Description:** In this project, I’ve acquired data from the MIUR (Italy’s Ministry of Education, University and Research) to delve into the differences in university enrollments in Italy from 2000 to 2020.
@@ -151,7 +153,7 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 
 ---
 
-## Power BI Reports
+## Power BI Reports {{ page.powerbi_logo }}
 
 ### Flight Analisys
 
