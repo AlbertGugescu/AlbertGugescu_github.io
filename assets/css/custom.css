@@ -10,10 +10,14 @@
   flex: 0 0 20%;
   float: none !important;          /* cancel old float if applied */
   position: static !important;     /* force flex participation */
+  background-color: #e3f2fd;  /* light blue */
+  color: #0d47a1;             /* darker text */
 }
 
 .wrapper > section {
   flex: 1 1 80%;
   float: none !important;          /* cancel old float if applied */
   position: static !important;     /* safeguard like header */
+  background-color: #ffffff;  /* white content area */
+  color: #333333;
 }
