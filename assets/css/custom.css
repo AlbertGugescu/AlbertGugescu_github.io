@@ -18,7 +18,7 @@
   position: fixed !important;
   top: 0 !important;
   left: 10% !important;
-  width: 20% !important;       /* fixed width */
+  width: 15% !important;       /* fixed width */
   height: 100vh !important;    /* fill screen height */
   overflow-y: auto !important; /* scroll if sidebar is taller than screen */
   
