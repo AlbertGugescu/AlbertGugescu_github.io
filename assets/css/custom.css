@@ -9,7 +9,10 @@
 .wrapper > header {
   flex: 0 0 20%;
   float: none !important;
-  position: static !important;
+  position: sticky !important;
+  align-self: flex-start !important;  /* keeps height aligned to top */
+  height: 100vh !important;   /* optional: make it full viewport height */
+  overflow-y: auto !important; 
   /* background-color: #e3f2fd; */
   /* color: #0d47a1; */ 
 }
