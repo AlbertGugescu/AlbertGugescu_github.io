@@ -1,3 +1,8 @@
+---
+logo_size: 70
+---
+
+
 # Selected Portfolio Projects
 
 ---
@@ -8,6 +13,13 @@
 **Description:** In this project, I’ve acquired data from the MIUR (Italy’s Ministry of Education, University and Research) to delve into the differences in university enrollments in Italy from 2000 to 2020.
 
 <img src="images/Italy un.png" alt="Italy University Enrollments" />
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" 
+     alt="Pandas Logo" 
+     width="{{ page.logo_size }}">
+<img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" 
+     alt="Seaborn Logo" 
+     width="{{ page.logo_size }}">
 
 ---
 
