@@ -13,6 +13,8 @@ sklearn_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Sci
 xgboost_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/XGBoost_logo.svg" alt="XGBoost Logo" width="70" height="20">'
 lgbm_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/LightGBM_logo_black_text.svg" alt="LightGBM Logo" width="70" height="20">'
 catboost_logo: '<img src="https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/When-to-Choose-CatBoost-Over-XGBoost-or-LightGBM-Practical-Guide_8.png?ssl=1" alt="CatBoost Logo" width="70" height="20">'
+surprise_logo: '<img src="images/logo.png" alt="Surprise Logo" width="70" height="20">'
+tensorflow_logo: "<img src=\"https://en.wikipedia.org/wiki/TensorFlow#/media/File:TensorFlow_logo.svg" alt=\"Beautifulsoup Logo\" style=\"width: 70px; height: 20px; object-fit: cover; object-position: center;\">"
 beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhwk0702.github.io%2Fimg%2Fbs.png&f=1&nofb=1&ipt=e6bebc477a0128c41176abc2df088f6e79d18654df9d16288258e25a8e20dc36\" alt=\"Beautifulsoup Logo\" style=\"width: 70px; height: 20px; object-fit: cover; object-position: center;\">"
 ---
 
@@ -53,6 +55,9 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 
 ### Movie Recommendation System
 **Description:** This notebook delves into recommendation systems capable of making movie recommendations using collaborative filtering. The models tested are a Tensorflow deep model with embedded layers and the well-known SVD algorithm.
+
+{{ page.tensorflow_logo }}
+{{ page.surprise_logo }}
 
 [View code on Colab](https://colab.research.google.com/drive/1NrYWsHU4AvId_r-SOSqpcFeX7kO8I70O?usp=sharing)
 
