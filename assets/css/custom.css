@@ -7,18 +7,25 @@
 }
 
 .wrapper > header {
-  flex: 0 0 20%;
-  float: none !important;
-  position: sticky !important;
-  align-self: flex-start !important;  /* keeps height aligned to top */
-  height: 100vh !important;   /* optional: make it full viewport height */
-  overflow-y: auto !important; 
+  /* flex: 0 0 20%; */
+  /* float: none !important; */
+  /* position: sticky !important; */
+  /* align-self: flex-start !important;   */
+  /* height: 100vh !important;    */
+  /* overflow-y: auto !important;  */
   /* background-color: #e3f2fd; */
-  /* color: #0d47a1; */ 
+  /* color: #0d47a1; */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 20%;       /* fixed width */
+  height: 100vh;    /* fill screen height */
+  overflow-y: auto; /* scroll if sidebar is taller than screen */
 }
 
 .wrapper > section {
   flex: 1 1 80%;
+  margin-left: 20%;
   /* float: none !important; */
   /* position: static !important;  */
   /* background-color: #ffffff; */
