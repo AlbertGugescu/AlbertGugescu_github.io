@@ -87,6 +87,8 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 
 [View code on Colab](https://colab.research.google.com/drive/13ZDnaX4-0tyE3VQM_HZ-7czKSJ5jiET8?usp=sharing)
 
+{{ page.tensorflow_logo }}
+
 ---
 
 ### NLP for Fake News Detection
@@ -96,10 +98,14 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 - [View code on Colab](https://colab.research.google.com/drive/12jPrkVDvf1OSUcSKqdgly9Sr5Yyz9nx-?usp=sharing)  
 - [View web app on Streamlit](https://newsclassifier-ffhsmr5htxfjrj3jqyaayd.streamlit.app/)
 
+{{ page.tensorflow_logo }}
+
 ---
 
 ### NLP for Text Summarization and Sentiment Analysis
 **Description:** In this notebook, I will go through the steps of building an attention-based sequence-to-sequence model using the encoder-decoder architecture with TensorFlow. The model will take a text sequence as input and output the corresponding summary and an auxiliary sentiment analysis output.  
+
+{{ page.tensorflow_logo }}
 
 [View code on Colab](https://colab.research.google.com/drive/1KUvyLiefE3sZiqr9-t3erUCcJLcbwafC?usp=sharing)
 
@@ -110,12 +116,20 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 
 <img src="images/isic_2024.png" alt="ISIC 2024 Skin Cancer Detection" />
 
+{{ page.tensorflow_logo }}
+
 [View Kaggle competition](https://www.kaggle.com/competitions/isic-2024-challenge)
 
 ---
 
 ### BrisT1D Blood Glucose Prediction
 **Description:** Time series competition held on Kaggle that had the goal of predicting blood glucose fluctuations in individuals with type 1 diabetes. To tackle the problem presented I experimented with both boosting algorithms and neural networks but continued only with Convolutional Neural Networks (CNNs) as they significantly outperformed the other models, managing to obtain an RMSE score of 2.4635.  
+
+{{ page.sklearn_logo }}
+{{ page.xgboost_logo }}
+{{ page.catboost_logo }}
+{{ page.lgbm_logo }}
+{{ page.tensorflow_logo }}
 
 <img src="images/brist1d.png" alt="BrisT1D Blood Glucose Prediction" />
 
