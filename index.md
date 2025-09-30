@@ -9,10 +9,13 @@ scipy_logo: '<img src="https://lense.institutoptique.fr/ressources/MINE/Tutoriel
 seaborn_logo: '<img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn Logo" width="70" height="20">'
 matplot_logo: '<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib Logo" width="70" height="20">'
 plotly_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="Plotly Logo" width="70" height="20">'
-sklearn_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn Logo" width="90" height="20">'
+sklearn_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn Logo" width="70" height="20">'
 xgboost_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/XGBoost_logo.svg" alt="XGBoost Logo" width="70" height="20">'
 lgbm_logo: '<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/LightGBM_logo_black_text.svg" alt="LightGBM Logo" width="70" height="20">'
 catboost_logo: '<img src="https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/When-to-Choose-CatBoost-Over-XGBoost-or-LightGBM-Practical-Guide_8.png?ssl=1" alt="CatBoost Logo" width="70" height="20">'
+beautifulsoup_logo: <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhwk0702.github.io%2Fimg%2Fbs.png&f=1&nofb=1&ipt=e6bebc477a0128c41176abc2df088f6e79d18654df9d16288258e25a8e20dc36"
+     alt="Beautifulsoup Logo"
+     style="width: {{ page.logo_width }}px; height: {{ page.logo_height }}px; object-fit: cover; object-position: center;">
 ---
 
 # Selected Portfolio Projects
@@ -61,6 +64,8 @@ catboost_logo: '<img src="https://i0.wp.com/neptune.ai/wp-content/uploads/2022/1
 **Description:** To gain insights into the temperature change across the world, I cleaned and analyzed a table containing the average temperatures of major cities worldwide. The cleaned table is then used to find out if there is any association between the temperatures set and the CO2 emissions using a second table. After the analysis of the association, the dataset is finally used to develop a model that can predict the temperature on a given day and location.
 
 <img src="images/World_Temperature.png" alt="World Temperatures" />
+
+{{page.beautifulsoup_logo}}
 
 [View code on Colab](https://colab.research.google.com/drive/1H3_I_27C7ZFKb_ZGP_X_CAr97t-C9qtk?usp=sharing)
 
