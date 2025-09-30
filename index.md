@@ -23,7 +23,8 @@ seaborn_logo_url: https://seaborn.pydata.org/_images/logo-wide-lightbg.svg
      height="{{ page.logo_height }}">
 <img src="{{ page.seaborn_logo_url }}" 
      alt="Seaborn Logo" 
-     width="{{ page.logo_size }}">
+     width="{{ logo_width }}"
+     height="{{ page.logo_height }}">
 
 ---
 
