@@ -8,9 +8,12 @@
 
 .wrapper > header {
   flex: 0 0 20%;
-  position: static !important;
+  float: none !important;          /* cancel old float if applied */
+  position: static !important;     /* force flex participation */
 }
 
 .wrapper > section {
   flex: 1 1 80%;
+  float: none !important;          /* cancel old float if applied */
+  position: static !important;     /* safeguard like header */
 }
