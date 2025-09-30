@@ -1,27 +1,15 @@
-/* Force wrapper to be a flexbox layout */
 .wrapper {
-  display: flex !important;   /* override theme */
-  flex-wrap: nowrap;          /* keep on one line */
-  gap: 20px;                  /* space between columns */
-  max-width: 1100px;          /* keep centered */
-  margin: 0 auto;             /* center horizontally */
+  display: flex !important;
+  gap: 20px;
+  max-width: 1100px;
+  margin: 0 auto;
   width: 80% !important;
 }
 
-/* Sidebar column */
 .wrapper > header {
-  flex: 0 0 20%;              /* 30% fixed width */
-  float: none !important;     /* cancel old float */
-  position: static !important;
-}
- 
-/* Main content column */
-.wrapper > section {
-  flex: 1 1 80%;              /* remaining 70% */
-  float: none !important;     /* cancel old float */
-  
+  flex: 0 0 20%;
 }
 
-header {
-  position: static !important;
+.wrapper > section {
+  flex: 1 1 80%;
 }
