@@ -7,28 +7,18 @@
 }
 
 .wrapper > header {
-  /* flex: 0 0 20%; */
-  /* float: none !important; */
-  /* position: sticky !important; */
-  /* align-self: flex-start !important;   */
-  /* height: 100vh !important;    */
-  /* overflow-y: auto !important;  */
   background-color: #e3f2fd;
-  /* color: #f0f0f0; */
   position: fixed !important;
-  top: 5.2% !important;
+  top: 0 !important;         /* stick to very top */
   left: 15% !important;
-  width: 15% !important;       /* fixed width */
-  height: 100vh !important;    /* fill screen height */
-  overflow-y: auto !important; /* scroll if sidebar is taller than screen */
-  
+  width: 15% !important;     /* fixed width */
+  height: 100vh !important;  /* fill screen height */
+  overflow-y: auto !important;
+
+  padding-top: 5.2%;         /* shift content down */
 }
 
 .wrapper > section {
   flex: 1 1 80%;
   margin-left: 20%;
-  /* float: none !important; */
-  /* position: static !important;  */
-  /* background-color: #ffffff; */
-  /* color: #333333; */
 }
