@@ -153,7 +153,7 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 
 ---
 
-## Power BI Reports {{ page.powerbi_logo }}
+## <span style="color: #000080;">Power BI Reports</span> {{ page.powerbi_logo }}
 
 ### Flight Analisys
 
