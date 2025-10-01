@@ -22,25 +22,6 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 
 # Selected Portfolio Projects
 
-<div class="powerbi-section">
-<hr>
-</div>
-
-## <span style="color: #000080;">Power BI Reports</span> {{ page.powerbi_logo }}
-
-### Flight Analisys
-
-**Description:** This project investigates the relationship between coach prices and various flight characteristics.
-
-<img src="images/powerbi/flight analisys.png" alt="flight analisys" />
-
-### Income Analisys
-
-**Description:** This project investigates the relationship between Income and various characteristics.
-
-<img src="images/powerbi/income analysis_Pagina_1.png" alt="income analisys 01" />
-<img src="images/powerbi/income analysis_Pagina_2.png" alt="income analisys 02" />
-
 <div class="python-section">
 <hr>
 </div>
@@ -171,3 +152,22 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 | S4E5  | Regression with Flood Prediction | R²: 0.86620 |
 | S4E6  | Classification with Academic Success | Accuracy: 0.83787 |
 | S4E9  | Regression of Used Car Prices | RMSE: 63,637 |
+
+<div class="powerbi-section">
+<hr>
+</div>
+
+## <span style="color: #000080;">Power BI Reports</span> {{ page.powerbi_logo }}
+
+### Flight Analisys
+
+**Description:** This project investigates the relationship between coach prices and various flight characteristics.
+
+<img src="images/powerbi/flight analisys.png" alt="flight analisys" />
+
+### Income Analisys
+
+**Description:** This project investigates the relationship between Income and various characteristics.
+
+<img src="images/powerbi/income analysis_Pagina_1.png" alt="income analisys 01" />
+<img src="images/powerbi/income analysis_Pagina_2.png" alt="income analisys 02" />
