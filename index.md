@@ -170,4 +170,4 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 **Description:** This project investigates the relationship between Income and various characteristics.
 
 <img src="images/powerbi/income analysis_Pagina_1.png" alt="income analisys 01" />
-<img src="images/powerbi/income analysis_Pagina_2.png" alt="income analisys 02" />
+<img src="images/powerbi/income analysis_2.png" alt="income analisys 02" />
