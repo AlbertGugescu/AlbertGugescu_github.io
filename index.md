@@ -24,6 +24,22 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 
 ---
 
+## <span style="color: #000080;">Power BI Reports</span> {{ page.powerbi_logo }}
+
+### Flight Analisys
+
+**Description:** This project investigates the relationship between coach prices and various flight characteristics.
+
+<img src="images/powerbi/flight analisys.png" alt="flight analisys" />
+
+### Income Analisys
+
+**Description:** This project investigates the relationship between Income and various characteristics.
+
+<img src="images/powerbi/income analysis_Pagina_1.png" alt="income analisys 01" />
+<img src="images/powerbi/income analysis_Pagina_2.png" alt="income analisys 02" />
+
+
 ## <span style="color: #000080;">Python Projects</span> {{ page.python_logo}}
 
 ### Italy University Enrollments
@@ -152,18 +168,3 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 | S4E9  | Regression of Used Car Prices | RMSE: 63,637 |
 
 ---
-
-## <span style="color: #000080;">Power BI Reports</span> {{ page.powerbi_logo }}
-
-### Flight Analisys
-
-**Description:** This project investigates the relationship between coach prices and various flight characteristics.
-
-<img src="images/powerbi/flight analisys.png" alt="flight analisys" />
-
-### Income Analisys
-
-**Description:** This project investigates the relationship between Income and various characteristics.
-
-<img src="images/powerbi/income analysis_Pagina_1.png" alt="income analisys 01" />
-<img src="images/powerbi/income analysis_Pagina_2.png" alt="income analisys 02" />
