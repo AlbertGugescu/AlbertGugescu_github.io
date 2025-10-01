@@ -143,13 +143,13 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 ### BrisT1D Blood Glucose Prediction
 **Description:** Time series competition held on Kaggle that had the goal of predicting blood glucose fluctuations in individuals with type 1 diabetes. To tackle the problem presented I experimented with both boosting algorithms and neural networks but continued only with Convolutional Neural Networks (CNNs) as they significantly outperformed the other models, managing to obtain an RMSE score of 2.4635.  
 
+<img src="images/brist1d.png" alt="BrisT1D Blood Glucose Prediction" />
+
 {{ page.sklearn_logo }}
 {{ page.xgboost_logo }}
 {{ page.catboost_logo }}
 {{ page.lgbm_logo }}
 {{ page.tensorflow_logo }}
-
-<img src="images/brist1d.png" alt="BrisT1D Blood Glucose Prediction" />
 
 [View Kaggle competition](https://www.kaggle.com/competitions/brist1d)
 
@@ -166,5 +166,3 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 | S4E5  | Regression with Flood Prediction | R²: 0.86620 |
 | S4E6  | Classification with Academic Success | Accuracy: 0.83787 |
 | S4E9  | Regression of Used Car Prices | RMSE: 63,637 |
-
----
