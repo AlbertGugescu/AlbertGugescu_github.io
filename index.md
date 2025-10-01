@@ -23,7 +23,7 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 # Selected Portfolio Projects
 
 <div class="powerbi-section">
----
+<hr>
 </div>
 
 ## <span style="color: #000080;">Power BI Reports</span> {{ page.powerbi_logo }}
@@ -42,7 +42,7 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 <img src="images/powerbi/income analysis_Pagina_2.png" alt="income analisys 02" />
 
 <div class="python-section">
----
+<hr>
 </div>
 
 ## <span style="color: #000080;">Python Projects</span> {{ page.python_logo}}
