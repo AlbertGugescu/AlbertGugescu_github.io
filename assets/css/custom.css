@@ -22,3 +22,11 @@
   flex: 1 1 80%;
   margin-left: 20%;
 }
+
+.python-section hr {
+  border-top: 2px solid #1f77b4; /* Python = blue */
+}
+
+.powerbi-section hr {
+  border-top: 2px solid #ff7f0e; /* Power BI = orange */
+}
