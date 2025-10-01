@@ -10,7 +10,7 @@
   background-color: #e3f2fd;
   position: fixed !important;
   top: 0 !important;         /* stick to very top */
-  left: 0% !important;       /* 15 */
+  left: 5% !important;       /* 15 */
   width: 15% !important;     /* fixed width */
   height: 100vh !important;  /* fill screen height */
   overflow-y: auto !important;
