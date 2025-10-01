@@ -22,7 +22,7 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 
 # Selected Portfolio Projects
 
-<div class="python-section">
+<div class="dhdelimiter">
 <hr>
 </div>
 
@@ -153,7 +153,7 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 | S4E6  | Classification with Academic Success | Accuracy: 0.83787 |
 | S4E9  | Regression of Used Car Prices | RMSE: 63,637 |
 
-<div class="powerbi-section">
+<div class="dhdelimiter">
 <hr>
 </div>
 
