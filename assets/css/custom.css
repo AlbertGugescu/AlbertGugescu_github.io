@@ -15,7 +15,7 @@
   height: 100vh !important;  /* fill screen height */
   overflow-y: auto !important;
 
-  padding-top: 4%;         /* shift content down */
+  padding-top: 2%;         /* shift content down */
 }
 
 .wrapper > section {
