@@ -30,7 +30,7 @@
 /* Outer container stretches full width */
 .logos-background-full {
   width: 100%;                     /* full section width */
-  background-color: rgba(0, 128, 0, 0.1); /* choose one of the green shades */
+  background-color: rgba(0, 128, 0, 0.15); /* choose one of the green shades */
   display: flex;
   justify-content: center;          /* center logos horizontally */
   padding: 5px 0;                   /* thickness of the background */
