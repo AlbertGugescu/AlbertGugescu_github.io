@@ -28,8 +28,9 @@
 }
 
 .tech-logos {
-  display: flex;
+  display: inline-flex;
   gap: 10px;
-  border-top: 3px solid black;  /* black line */
-  padding-top: 5px;
+  background-color: rgba(0, 128, 0, 0.1); /* very transparent green */
+  padding: 5px 10px;
+  border-radius: 5px;
 }
