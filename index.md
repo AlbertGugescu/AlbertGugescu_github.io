@@ -31,8 +31,12 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 ### Italy University Enrollments
 In this project, I’ve acquired data from the MIUR (Italy’s Ministry of Education, University and Research) to delve into the differences in university enrollments in Italy from 2000 to 2020.
 
-{{ page.pandas_logo }} 
-{{ page.seaborn_logo }}
+<div class="logos-background-full">
+  <div class="logos-background">
+    {{ page.pandas_logo }} 
+    {{ page.seaborn_logo }}
+  </div>
+</div>
 
 ---
 
@@ -41,17 +45,20 @@ In order to get as much information as possible about a sales dataset, analysis 
 
 <img src="images/Sales_Analysis.png" alt="Sales Analysis" />
 
-{{ page.pandas_logo }}
-{{ page.matplot_logo }}
-{{ page.seaborn_logo }}
-{{ page.plotly_logo }}
-{{ page.scipy_logo }}
-{{ page.pingouin_logo }}
-{{ page.sklearn_logo }}
-{{ page.xgboost_logo }}
-{{ page.catboost_logo }}
-{{ page.lgbm_logo }}
-
+<div class="logos-background-full">
+  <div class="logos-background">
+    {{ page.pandas_logo }}
+    {{ page.matplot_logo }}
+    {{ page.seaborn_logo }}
+    {{ page.plotly_logo }}
+    {{ page.scipy_logo }}
+    {{ page.pingouin_logo }}
+    {{ page.sklearn_logo }}
+    {{ page.xgboost_logo }}
+    {{ page.catboost_logo }}
+    {{ page.lgbm_logo }}
+  </div>
+</div>
 
 [View code on Colab](https://colab.research.google.com/drive/16D2wZIYugOM2u7OUHegozT25UXVQB6gV?usp=sharing){:target="_blank"}
 
@@ -60,8 +67,12 @@ In order to get as much information as possible about a sales dataset, analysis 
 ### Movie Recommendation System
 This notebook delves into recommendation systems capable of making movie recommendations using collaborative filtering. The models tested are a Tensorflow deep model with embedded layers and the well-known SVD algorithm.
 
-{{ page.tensorflow_logo }}
-{{ page.surprise_logo }}
+<div class="logos-background-full">
+  <div class="logos-background">
+    {{ page.tensorflow_logo }}
+    {{ page.surprise_logo }}
+  </div>
+</div>
 
 [View code on Colab](https://colab.research.google.com/drive/1NrYWsHU4AvId_r-SOSqpcFeX7kO8I70O?usp=sharing){:target="_blank"}
 
@@ -94,7 +105,11 @@ In this notebook, I utilized Tensorflow to build a model capable of predicting t
 
 [View code on Colab](https://colab.research.google.com/drive/13ZDnaX4-0tyE3VQM_HZ-7czKSJ5jiET8?usp=sharing){:target="_blank"}
 
-{{ page.tensorflow_logo }}
+<div class="logos-background-full">
+  <div class="logos-background">
+    {{ page.tensorflow_logo }}
+  </div>
+</div>
 
 ---
 
@@ -105,14 +120,22 @@ Fake news detection is the task of ascertaining the authenticity of news article
 - [View code on Colab](https://colab.research.google.com/drive/12jPrkVDvf1OSUcSKqdgly9Sr5Yyz9nx-?usp=sharing){:target="_blank"}
 - [View web app on Streamlit](https://newsclassifier-ffhsmr5htxfjrj3jqyaayd.streamlit.app/){:target="_blank"}
 
-{{ page.tensorflow_logo }}
+<div class="logos-background-full">
+  <div class="logos-background">
+    {{ page.tensorflow_logo }}
+  </div>
+</div>
 
 ---
 
 ### NLP for Text Summarization and Sentiment Analysis
 In this notebook, I will go through the steps of building an attention-based sequence-to-sequence model using the encoder-decoder architecture with TensorFlow. The model will take a text sequence as input and output the corresponding summary and an auxiliary sentiment analysis output.  
 
-{{ page.tensorflow_logo }}
+<div class="logos-background-full">
+  <div class="logos-background">
+    {{ page.tensorflow_logo }}
+  </div>
+</div>
 
 [View code on Colab](https://colab.research.google.com/drive/1KUvyLiefE3sZiqr9-t3erUCcJLcbwafC?usp=sharing){:target="_blank"}
 
@@ -123,7 +146,12 @@ Annual competition held on Kaggle aimed at the diagnosis of skin cancer through 
 
 <img src="images/isic_2024.png" alt="ISIC 2024 Skin Cancer Detection" />
 
-{{ page.tensorflow_logo }}
+<div class="logos-background-full">
+  <div class="logos-background">
+    {{ page.tensorflow_logo }}
+  </div>
+</div>
+
 
 [View Kaggle competition](https://www.kaggle.com/competitions/isic-2024-challenge){:target="_blank"}
 
@@ -134,11 +162,15 @@ Time series competition held on Kaggle that had the goal of predicting blood glu
 
 <img src="images/brist1d.png" alt="BrisT1D Blood Glucose Prediction" />
 
-{{ page.sklearn_logo }}
-{{ page.xgboost_logo }}
-{{ page.catboost_logo }}
-{{ page.lgbm_logo }}
-{{ page.tensorflow_logo }}
+<div class="logos-background-full">
+  <div class="logos-background">
+    {{ page.sklearn_logo }}
+    {{ page.xgboost_logo }}
+    {{ page.catboost_logo }}
+    {{ page.lgbm_logo }}
+    {{ page.tensorflow_logo }}
+    </div>
+</div>
 
 [View Kaggle competition](https://www.kaggle.com/competitions/brist1d){:target="_blank"}
 
