@@ -71,17 +71,17 @@ This notebook delves into recommendation systems capable of making movie recomme
 To gain insights into the temperature change across the world, I cleaned and analyzed a table containing the average temperatures of major cities worldwide. The cleaned table is then used to find out if there is any association between the temperatures set and the CO2 emissions using a second table. After the analysis of the association, the dataset is finally used to develop a model that can predict the temperature on a given day and location.
 
 <img src="images/World_Temperature.png" alt="World Temperatures" />
-
-{{ page.numpy_logo }}
-{{ page.pandas_logo }}
-{{ page.matplot_logo }}
-{{ page.seaborn_logo }}
-{{ page.beautifulsoup_logo }}
-{{ page.matplot_logo }}
-{{ page.sklearn_logo }}
-{{ page.xgboost_logo }}
-{{ page.tensorflow_logo }}
-
+<div class="tech-logos">
+  {{ page.numpy_logo }}
+  {{ page.pandas_logo }}
+  {{ page.matplot_logo }}
+  {{ page.seaborn_logo }}
+  {{ page.beautifulsoup_logo }}
+  {{ page.matplot_logo }}
+  {{ page.sklearn_logo }}
+  {{ page.xgboost_logo }}
+  {{ page.tensorflow_logo }}
+</div>
 [View code on Colab](https://colab.research.google.com/drive/1H3_I_27C7ZFKb_ZGP_X_CAr97t-C9qtk?usp=sharing){:target="_blank"}
 
 ---
