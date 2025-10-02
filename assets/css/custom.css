@@ -26,3 +26,10 @@
 .dhdelimiter hr {
   border-top: 2px solid #1f77b4; /* Python = blue */
 }
+
+.tech-logos {
+  display: flex;
+  gap: 10px;
+  border-top: 3px solid black;  /* black line */
+  padding-top: 5px;
+}
