@@ -27,10 +27,17 @@
   border-top: 2px solid #1f77b4; /* Python = blue */
 }
 
-.tech-logos {
-  display: inline-flex;
-  gap: 10px;
-  background-color: rgba(0, 128, 0, 0.1); /* very transparent green */
-  padding: 5px 10px;
-  border-radius: 5px;
+/* Outer container stretches full width */
+.logos-background-full {
+  width: 100%;                     /* full section width */
+  background-color: rgba(0, 128, 0, 0.1); /* choose one of the green shades */
+  display: flex;
+  justify-content: center;          /* center logos horizontally */
+  padding: 5px 0;                   /* thickness of the background */
+}
+
+/* Inner container holds logos in a row */
+.logos-background {
+  display: flex;
+  gap: 10px;                        /* space between logos */
 }
