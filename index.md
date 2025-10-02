@@ -53,7 +53,7 @@ In order to get as much information as possible about a sales dataset, analysis 
 {{ page.lgbm_logo }}
 
 
-[View code on Colab](https://colab.research.google.com/drive/16D2wZIYugOM2u7OUHegozT25UXVQB6gV?usp=sharing)
+[View code on Colab](https://colab.research.google.com/drive/16D2wZIYugOM2u7OUHegozT25UXVQB6gV?usp=sharing){:target="_blank"}
 
 ---
 
@@ -63,7 +63,7 @@ This notebook delves into recommendation systems capable of making movie recomme
 {{ page.tensorflow_logo }}
 {{ page.surprise_logo }}
 
-[View code on Colab](https://colab.research.google.com/drive/1NrYWsHU4AvId_r-SOSqpcFeX7kO8I70O?usp=sharing)
+[View code on Colab](https://colab.research.google.com/drive/1NrYWsHU4AvId_r-SOSqpcFeX7kO8I70O?usp=sharing){:target="_blank"}
 
 ---
 
@@ -82,14 +82,14 @@ To gain insights into the temperature change across the world, I cleaned and ana
 {{ page.xgboost_logo }}
 {{ page.tensorflow_logo }}
 
-[View code on Colab](https://colab.research.google.com/drive/1H3_I_27C7ZFKb_ZGP_X_CAr97t-C9qtk?usp=sharing)
+[View code on Colab](https://colab.research.google.com/drive/1H3_I_27C7ZFKb_ZGP_X_CAr97t-C9qtk?usp=sharing){:target="_blank"}
 
 ---
 
 ### Animal Image Classifier
 In this notebook, I utilized Tensorflow to build a model capable of predicting the name of an animal present in an image. To accomplish this, I decided to use the fast and high-performing InceptionV3 architecture. 
 
-[View code on Colab](https://colab.research.google.com/drive/13ZDnaX4-0tyE3VQM_HZ-7czKSJ5jiET8?usp=sharing)
+[View code on Colab](https://colab.research.google.com/drive/13ZDnaX4-0tyE3VQM_HZ-7czKSJ5jiET8?usp=sharing){:target="_blank"}
 
 {{ page.tensorflow_logo }}
 
@@ -99,8 +99,8 @@ In this notebook, I utilized Tensorflow to build a model capable of predicting t
 Fake news detection is the task of ascertaining the authenticity of news articles and determining whether they are genuine or fake. In this project, I utilized Tensorflow to develop a model capable of predicting the probability of news articles being fake. The model is then used to create a web app classifier using Streamlit.
 
 **Links:**  
-- [View code on Colab](https://colab.research.google.com/drive/12jPrkVDvf1OSUcSKqdgly9Sr5Yyz9nx-?usp=sharing)  
-- [View web app on Streamlit](https://newsclassifier-ffhsmr5htxfjrj3jqyaayd.streamlit.app/)
+- [View code on Colab](https://colab.research.google.com/drive/12jPrkVDvf1OSUcSKqdgly9Sr5Yyz9nx-?usp=sharing){:target="_blank"}
+- [View web app on Streamlit](https://newsclassifier-ffhsmr5htxfjrj3jqyaayd.streamlit.app/){:target="_blank"}
 
 {{ page.tensorflow_logo }}
 
@@ -111,7 +111,7 @@ In this notebook, I will go through the steps of building an attention-based seq
 
 {{ page.tensorflow_logo }}
 
-[View code on Colab](https://colab.research.google.com/drive/1KUvyLiefE3sZiqr9-t3erUCcJLcbwafC?usp=sharing)
+[View code on Colab](https://colab.research.google.com/drive/1KUvyLiefE3sZiqr9-t3erUCcJLcbwafC?usp=sharing){:target="_blank"}
 
 ---
 
@@ -122,7 +122,7 @@ Annual competition held on Kaggle aimed at the diagnosis of skin cancer through 
 
 {{ page.tensorflow_logo }}
 
-[View Kaggle competition](https://www.kaggle.com/competitions/isic-2024-challenge)
+[View Kaggle competition](https://www.kaggle.com/competitions/isic-2024-challenge){:target="_blank"}
 
 ---
 
@@ -137,7 +137,7 @@ Time series competition held on Kaggle that had the goal of predicting blood glu
 {{ page.lgbm_logo }}
 {{ page.tensorflow_logo }}
 
-[View Kaggle competition](https://www.kaggle.com/competitions/brist1d)
+[View Kaggle competition](https://www.kaggle.com/competitions/brist1d){:target="_blank"}
 
 ---
 
