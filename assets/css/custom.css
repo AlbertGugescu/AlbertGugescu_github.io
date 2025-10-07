@@ -4,6 +4,7 @@
   max-width: 1100px;
   margin: 0 auto;
   width: 80% !important;
+  background-color: rgba(0, 128, 0, 0.1);
 }
 
 .wrapper > header {
