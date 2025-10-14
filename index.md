@@ -26,12 +26,12 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 <hr>
 </div>
 
-<img src="images/Italy un.png" />
-
 ## <span style="color: #000080;">Python Projects</span> {{ page.python_logo}}
 
 ### Italy University Enrollments
 In this project, I’ve acquired data from the MIUR (Italy’s Ministry of Education, University and Research) to delve into the differences in university enrollments in Italy from 2000 to 2020.
+
+<img src="images/Italy un.png" />
 
 <div class="logos-background-full">
   <div class="logos-background">
