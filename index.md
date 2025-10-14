@@ -105,28 +105,27 @@ To gain insights into the temperature change across the world, I cleaned and ana
 ### Animal Image Classifier
 In this notebook, I utilized Tensorflow to build a model capable of predicting the name of an animal present in an image. To accomplish this, I decided to use the fast and high-performing InceptionV3 architecture. 
 
-[View code on Colab](https://colab.research.google.com/drive/13ZDnaX4-0tyE3VQM_HZ-7czKSJ5jiET8?usp=sharing){:target="_blank"}
-
 <div class="logos-background-full">
   <div class="logos-background">
     {{ page.tensorflow_logo }}
   </div>
 </div>
+
+[View code on Colab](https://colab.research.google.com/drive/13ZDnaX4-0tyE3VQM_HZ-7czKSJ5jiET8?usp=sharing){:target="_blank"}
 
 ---
 
 ### NLP for Fake News Detection
 Fake news detection is the task of ascertaining the authenticity of news articles and determining whether they are genuine or fake. In this project, I utilized Tensorflow to develop a model capable of predicting the probability of news articles being fake. The model is then used to create a web app classifier using Streamlit.
 
-**Links:**  
-- [View code on Colab](https://colab.research.google.com/drive/12jPrkVDvf1OSUcSKqdgly9Sr5Yyz9nx-?usp=sharing){:target="_blank"}
-- [View web app on Streamlit](https://newsclassifier-ffhsmr5htxfjrj3jqyaayd.streamlit.app/){:target="_blank"}
-
 <div class="logos-background-full">
   <div class="logos-background">
     {{ page.tensorflow_logo }}
   </div>
 </div>
+
+- [View code on Colab](https://colab.research.google.com/drive/12jPrkVDvf1OSUcSKqdgly9Sr5Yyz9nx-?usp=sharing){:target="_blank"}
+- [View web app on Streamlit](https://newsclassifier-ffhsmr5htxfjrj3jqyaayd.streamlit.app/){:target="_blank"}
 
 ---
 
