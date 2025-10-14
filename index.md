@@ -26,6 +26,8 @@ beautifulsoup_logo: "<img src=\"https://external-content.duckduckgo.com/iu/?u=ht
 <hr>
 </div>
 
+<img src="images/Italy un.png" />
+
 ## <span style="color: #000080;">Python Projects</span> {{ page.python_logo}}
 
 ### Italy University Enrollments
