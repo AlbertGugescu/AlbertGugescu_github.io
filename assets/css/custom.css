@@ -1,3 +1,7 @@
+body {
+  background-color: #f5f5f5; /* page background color */
+}
+
 .wrapper {
   display: flex !important;
   gap: 20px;
